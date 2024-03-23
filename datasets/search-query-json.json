@@ -1,0 +1,2718 @@
+[
+  {
+    "user": "How can I bake a cookie?",
+    "assistant": {
+      "service": "Search",
+      "query": "how to bake a cookie"
+    }
+  },
+  {
+    "user": "What is the world's highest building?",
+    "assistant": {
+      "service": "Search",
+      "query": "world's highest building"
+    }
+  },
+  {
+    "user": "Tell me a joke.",
+    "assistant": {
+      "service": "Search",
+      "query": "famous joke"
+    }
+  },
+  {
+    "user": "How to reset my phone?",
+    "assistant": {
+      "service": "Search",
+      "query": "phone reset instructions"
+    }
+  },
+  {
+    "user": "What's the weather like in Paris today?",
+    "assistant": {
+      "service": "Search",
+      "query": "current Paris weather"
+    }
+  },
+  {
+    "user": "Who won the world series last year?",
+    "assistant": {
+      "service": "Search",
+      "query": "winner of world series last year"
+    }
+  },
+  {
+    "user": "How do vaccines work?",
+    "assistant": {
+      "service": "Search",
+      "query": "vaccine mechanism of action"
+    }
+  },
+  {
+    "user": "What's the capital of Canada?",
+    "assistant": {
+      "service": "Search",
+      "query": "capital of Canada"
+    }
+  },
+  {
+    "user": "Find a gluten-free pizza recipe.",
+    "assistant": {
+      "service": "Search",
+      "query": "gluten-free pizza recipe"
+    }
+  },
+  {
+    "user": "Best practices for online security?",
+    "assistant": {
+      "service": "Search",
+      "query": "online security best practices"
+    }
+  },
+  {
+    "user": "Who is the author of 'Pride and Prejudice'?",
+    "assistant": {
+      "service": "Search",
+      "query": "author of Pride and Prejudice"
+    }
+  },
+  {
+    "user": "When is the next solar eclipse?",
+    "assistant": {
+      "service": "Search",
+      "query": "next solar eclipse date"
+    }
+  },
+  {
+    "user": "What are the symptoms of a cold?",
+    "assistant": {
+      "service": "Search",
+      "query": "symptoms of a cold"
+    }
+  },
+  {
+    "user": "How to make homemade pasta?",
+    "assistant": {
+      "service": "Search",
+      "query": "homemade pasta recipe"
+    }
+  },
+  {
+    "user": "What's the speed of light?",
+    "assistant": {
+      "service": "Search",
+      "query": "speed of light"
+    }
+  },
+  {
+    "user": "How can I bake a cookie?",
+    "assistant": {
+      "service": "Search",
+      "query": "how to bake a cookie"
+    }
+  },
+  {
+    "user": "What is the world's highest building?",
+    "assistant": {
+      "service": "Search",
+      "query": "world's highest building"
+    }
+  },
+  {
+    "user": "Tell me a joke.",
+    "assistant": {
+      "service": "Search",
+      "query": "famous joke"
+    }
+  },
+  {
+    "user": "How to reset my phone?",
+    "assistant": {
+      "service": "Search",
+      "query": "phone reset instructions"
+    }
+  },
+  {
+    "user": "What's the weather like in Paris today?",
+    "assistant": {
+      "service": "Search",
+      "query": "current Paris weather"
+    }
+  },
+  {
+    "user": "Who won the world series last year?",
+    "assistant": {
+      "service": "Search",
+      "query": "winner of world series last year"
+    }
+  },
+  {
+    "user": "How do vaccines work?",
+    "assistant": {
+      "service": "Search",
+      "query": "vaccine mechanism of action"
+    }
+  },
+  {
+    "user": "What's the capital of Canada?",
+    "assistant": {
+      "service": "Search",
+      "query": "capital of Canada"
+    }
+  },
+  {
+    "user": "Find a gluten-free pizza recipe.",
+    "assistant": {
+      "service": "Search",
+      "query": "gluten-free pizza recipe"
+    }
+  },
+  {
+    "user": "Best practices for online security?",
+    "assistant": {
+      "service": "Search",
+      "query": "online security best practices"
+    }
+  },
+  {
+    "user": "Who is the author of 'Pride and Prejudice'?",
+    "assistant": {
+      "service": "Search",
+      "query": "author of Pride and Prejudice"
+    }
+  },
+  {
+    "user": "When is the next solar eclipse?",
+    "assistant": {
+      "service": "Search",
+      "query": "next solar eclipse date"
+    }
+  },
+  {
+    "user": "What are the symptoms of a cold?",
+    "assistant": {
+      "service": "Search",
+      "query": "symptoms of a cold"
+    }
+  },
+  {
+    "user": "How to make homemade pasta?",
+    "assistant": {
+      "service": "Search",
+      "query": "homemade pasta recipe"
+    }
+  },
+  {
+    "user": "What's the speed of light?",
+    "assistant": {
+      "service": "Search",
+      "query": "speed of light"
+    }
+  },
+  {
+    "user": "How can I improve my memory?",
+    "assistant": {
+      "service": "Search",
+      "query": "memory improvement techniques"
+    }
+  },
+  {
+    "user": "What is the population of Tokyo?",
+    "assistant": {
+      "service": "Search",
+      "query": "population of Tokyo"
+    }
+  },
+  {
+    "user": "Tell me about the history of Ancient Rome.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of Ancient Rome"
+    }
+  },
+  {
+    "user": "How to grow tomatoes in a small garden?",
+    "assistant": {
+      "service": "Search",
+      "query": "growing tomatoes in small spaces"
+    }
+  },
+  {
+    "user": "What are the benefits of meditation?",
+    "assistant": {
+      "service": "Search",
+      "query": "meditation benefits"
+    }
+  },
+  {
+    "user": "Who painted the Mona Lisa?",
+    "assistant": {
+      "service": "Search",
+      "query": "painter of the Mona Lisa"
+    }
+  },
+  {
+    "user": "When was the Eiffel Tower built?",
+    "assistant": {
+      "service": "Search",
+      "query": "Eiffel Tower construction date"
+    }
+  },
+  {
+    "user": "How to train a puppy?",
+    "assistant": {
+      "service": "Search",
+      "query": "puppy training techniques"
+    }
+  },
+  {
+    "user": "What causes insomnia?",
+    "assistant": {
+      "service": "Search",
+      "query": "insomnia causes"
+    }
+  },
+  {
+    "user": "Best cities to visit in Italy?",
+    "assistant": {
+      "service": "Search",
+      "query": "top cities in Italy to visit"
+    }
+  },
+  {
+    "user": "Who discovered gravity?",
+    "assistant": {
+      "service": "Search",
+      "query": "discoverer of gravity"
+    }
+  },
+  {
+    "user": "What are the health benefits of green tea?",
+    "assistant": {
+      "service": "Search",
+      "query": "green tea health benefits"
+    }
+  },
+  {
+    "user": "How can I bake a cookie?",
+    "assistant": {
+      "service": "Search",
+      "query": "how to bake a cookie"
+    }
+  },
+  {
+    "user": "What is the world's highest building?",
+    "assistant": {
+      "service": "Search",
+      "query": "world's highest building"
+    }
+  },
+  {
+    "user": "Tell me a joke.",
+    "assistant": {
+      "service": "Search",
+      "query": "famous joke"
+    }
+  },
+  {
+    "user": "How to reset my phone?",
+    "assistant": {
+      "service": "Search",
+      "query": "phone reset instructions"
+    }
+  },
+  {
+    "user": "What's the weather like in Paris today?",
+    "assistant": {
+      "service": "Search",
+      "query": "current Paris weather"
+    }
+  },
+  {
+    "user": "Who won the world series last year?",
+    "assistant": {
+      "service": "Search",
+      "query": "winner of world series last year"
+    }
+  },
+  {
+    "user": "How do vaccines work?",
+    "assistant": {
+      "service": "Search",
+      "query": "vaccine mechanism of action"
+    }
+  },
+  {
+    "user": "What's the capital of Canada?",
+    "assistant": {
+      "service": "Search",
+      "query": "capital of Canada"
+    }
+  },
+  {
+    "user": "Find a gluten-free pizza recipe.",
+    "assistant": {
+      "service": "Search",
+      "query": "gluten-free pizza recipe"
+    }
+  },
+  {
+    "user": "Best practices for online security?",
+    "assistant": {
+      "service": "Search",
+      "query": "online security best practices"
+    }
+  },
+  {
+    "user": "Who is the author of 'Pride and Prejudice'?",
+    "assistant": {
+      "service": "Search",
+      "query": "author of Pride and Prejudice"
+    }
+  },
+  {
+    "user": "When is the next solar eclipse?",
+    "assistant": {
+      "service": "Search",
+      "query": "next solar eclipse date"
+    }
+  },
+  {
+    "user": "What are the symptoms of a cold?",
+    "assistant": {
+      "service": "Search",
+      "query": "symptoms of a cold"
+    }
+  },
+  {
+    "user": "How to make homemade pasta?",
+    "assistant": {
+      "service": "Search",
+      "query": "homemade pasta recipe"
+    }
+  },
+  {
+    "user": "What's the speed of light?",
+    "assistant": {
+      "service": "Search",
+      "query": "speed of light"
+    }
+  },
+  {
+    "user": "How can I improve my memory?",
+    "assistant": {
+      "service": "Search",
+      "query": "memory improvement techniques"
+    }
+  },
+  {
+    "user": "What is the population of Tokyo?",
+    "assistant": {
+      "service": "Search",
+      "query": "population of Tokyo"
+    }
+  },
+  {
+    "user": "Tell me about the history of Ancient Rome.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of Ancient Rome"
+    }
+  },
+  {
+    "user": "How to grow tomatoes in a small garden?",
+    "assistant": {
+      "service": "Search",
+      "query": "growing tomatoes in small spaces"
+    }
+  },
+  {
+    "user": "What are the benefits of meditation?",
+    "assistant": {
+      "service": "Search",
+      "query": "meditation benefits"
+    }
+  },
+  {
+    "user": "Who painted the Mona Lisa?",
+    "assistant": {
+      "service": "Search",
+      "query": "painter of the Mona Lisa"
+    }
+  },
+  {
+    "user": "When was the Eiffel Tower built?",
+    "assistant": {
+      "service": "Search",
+      "query": "Eiffel Tower construction date"
+    }
+  },
+  {
+    "user": "How to train a puppy?",
+    "assistant": {
+      "service": "Search",
+      "query": "puppy training techniques"
+    }
+  },
+  {
+    "user": "What causes insomnia?",
+    "assistant": {
+      "service": "Search",
+      "query": "insomnia causes"
+    }
+  },
+  {
+    "user": "Best cities to visit in Italy?",
+    "assistant": {
+      "service": "Search",
+      "query": "top cities in Italy to visit"
+    }
+  },
+  {
+    "user": "Who discovered gravity?",
+    "assistant": {
+      "service": "Search",
+      "query": "discoverer of gravity"
+    }
+  },
+  {
+    "user": "What are the health benefits of green tea?",
+    "assistant": {
+      "service": "Search",
+      "query": "green tea health benefits"
+    }
+  },
+  {
+    "user": "How to prevent a hangover?",
+    "assistant": {
+      "service": "Search",
+      "query": "hangover prevention tips"
+    }
+  },
+  {
+    "user": "What are the endangered species in the Amazon rainforest?",
+    "assistant": {
+      "service": "Search",
+      "query": "endangered species in the Amazon rainforest"
+    }
+  },
+  {
+    "user": "Tell me about the history of the Great Wall of China.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of the Great Wall of China"
+    }
+  },
+  {
+    "user": "How to start a small business?",
+    "assistant": {
+      "service": "Search",
+      "query": "starting a small business guide"
+    }
+  },
+  {
+    "user": "What are the benefits of yoga?",
+    "assistant": {
+      "service": "Search",
+      "query": "yoga benefits"
+    }
+  },
+  {
+    "user": "Who composed the Ninth Symphony?",
+    "assistant": {
+      "service": "Search",
+      "query": "composer of the Ninth Symphony"
+    }
+  },
+  {
+    "user": "When did the Industrial Revolution start?",
+    "assistant": {
+      "service": "Search",
+      "query": "start date of the Industrial Revolution"
+    }
+  },
+  {
+    "user": "How to organize a closet effectively?",
+    "assistant": {
+      "service": "Search",
+      "query": "effective closet organization tips"
+    }
+  },
+  {
+    "user": "What are the different types of clouds?",
+    "assistant": {
+      "service": "Search",
+      "query": "types of clouds"
+    }
+  },
+  {
+    "user": "How can I bake a cookie?",
+    "assistant": {
+      "service": "Search",
+      "query": "how to bake a cookie"
+    }
+  },
+  {
+    "user": "What is the world's highest building?",
+    "assistant": {
+      "service": "Search",
+      "query": "world's highest building"
+    }
+  },
+  {
+    "user": "Tell me a joke.",
+    "assistant": {
+      "service": "Search",
+      "query": "famous joke"
+    }
+  },
+  {
+    "user": "How to reset my phone?",
+    "assistant": {
+      "service": "Search",
+      "query": "phone reset instructions"
+    }
+  },
+  {
+    "user": "What's the weather like in Paris today?",
+    "assistant": {
+      "service": "Search",
+      "query": "current Paris weather"
+    }
+  },
+  {
+    "user": "Who won the world series last year?",
+    "assistant": {
+      "service": "Search",
+      "query": "winner of world series last year"
+    }
+  },
+  {
+    "user": "How do vaccines work?",
+    "assistant": {
+      "service": "Search",
+      "query": "vaccine mechanism of action"
+    }
+  },
+  {
+    "user": "What's the capital of Canada?",
+    "assistant": {
+      "service": "Search",
+      "query": "capital of Canada"
+    }
+  },
+  {
+    "user": "Find a gluten-free pizza recipe.",
+    "assistant": {
+      "service": "Search",
+      "query": "gluten-free pizza recipe"
+    }
+  },
+  {
+    "user": "Best practices for online security?",
+    "assistant": {
+      "service": "Search",
+      "query": "online security best practices"
+    }
+  },
+  {
+    "user": "Who is the author of 'Pride and Prejudice'?",
+    "assistant": {
+      "service": "Search",
+      "query": "author of Pride and Prejudice"
+    }
+  },
+  {
+    "user": "When is the next solar eclipse?",
+    "assistant": {
+      "service": "Search",
+      "query": "next solar eclipse date"
+    }
+  },
+  {
+    "user": "What are the symptoms of a cold?",
+    "assistant": {
+      "service": "Search",
+      "query": "symptoms of a cold"
+    }
+  },
+  {
+    "user": "How to make homemade pasta?",
+    "assistant": {
+      "service": "Search",
+      "query": "homemade pasta recipe"
+    }
+  },
+  {
+    "user": "What's the speed of light?",
+    "assistant": {
+      "service": "Search",
+      "query": "speed of light"
+    }
+  },
+  {
+    "user": "How can I improve my memory?",
+    "assistant": {
+      "service": "Search",
+      "query": "memory improvement techniques"
+    }
+  },
+  {
+    "user": "What is the population of Tokyo?",
+    "assistant": {
+      "service": "Search",
+      "query": "population of Tokyo"
+    }
+  },
+  {
+    "user": "Tell me about the history of Ancient Rome.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of Ancient Rome"
+    }
+  },
+  {
+    "user": "How to grow tomatoes in a small garden?",
+    "assistant": {
+      "service": "Search",
+      "query": "growing tomatoes in small spaces"
+    }
+  },
+  {
+    "user": "What are the benefits of meditation?",
+    "assistant": {
+      "service": "Search",
+      "query": "meditation benefits"
+    }
+  },
+  {
+    "user": "Who painted the Mona Lisa?",
+    "assistant": {
+      "service": "Search",
+      "query": "painter of the Mona Lisa"
+    }
+  },
+  {
+    "user": "When was the Eiffel Tower built?",
+    "assistant": {
+      "service": "Search",
+      "query": "Eiffel Tower construction date"
+    }
+  },
+  {
+    "user": "How to train a puppy?",
+    "assistant": {
+      "service": "Search",
+      "query": "puppy training techniques"
+    }
+  },
+  {
+    "user": "What causes insomnia?",
+    "assistant": {
+      "service": "Search",
+      "query": "insomnia causes"
+    }
+  },
+  {
+    "user": "Best cities to visit in Italy?",
+    "assistant": {
+      "service": "Search",
+      "query": "top cities in Italy to visit"
+    }
+  },
+  {
+    "user": "Who discovered gravity?",
+    "assistant": {
+      "service": "Search",
+      "query": "discoverer of gravity"
+    }
+  },
+  {
+    "user": "What are the health benefits of green tea?",
+    "assistant": {
+      "service": "Search",
+      "query": "green tea health benefits"
+    }
+  },
+  {
+    "user": "How to prevent a hangover?",
+    "assistant": {
+      "service": "Search",
+      "query": "hangover prevention tips"
+    }
+  },
+  {
+    "user": "What are the endangered species in the Amazon rainforest?",
+    "assistant": {
+      "service": "Search",
+      "query": "endangered species in the Amazon rainforest"
+    }
+  },
+  {
+    "user": "Tell me about the history of the Great Wall of China.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of the Great Wall of China"
+    }
+  },
+  {
+    "user": "How to start a small business?",
+    "assistant": {
+      "service": "Search",
+      "query": "starting a small business guide"
+    }
+  },
+  {
+    "user": "What are the benefits of yoga?",
+    "assistant": {
+      "service": "Search",
+      "query": "yoga benefits"
+    }
+  },
+  {
+    "user": "Who composed the Ninth Symphony?",
+    "assistant": {
+      "service": "Search",
+      "query": "composer of the Ninth Symphony"
+    }
+  },
+  {
+    "user": "When did the Industrial Revolution start?",
+    "assistant": {
+      "service": "Search",
+      "query": "start date of the Industrial Revolution"
+    }
+  },
+  {
+    "user": "How to organize a closet effectively?",
+    "assistant": {
+      "service": "Search",
+      "query": "effective closet organization tips"
+    }
+  },
+  {
+    "user": "What are the different types of clouds?",
+    "assistant": {
+      "service": "Search",
+      "query": "types of clouds"
+    }
+  },
+  {
+    "user": "How can I bake a cookie?",
+    "assistant": {
+      "service": "Search",
+      "query": "how to bake a cookie"
+    }
+  },
+  {
+    "user": "What is the world's highest building?",
+    "assistant": {
+      "service": "Search",
+      "query": "world's highest building"
+    }
+  },
+  {
+    "user": "Tell me a joke.",
+    "assistant": {
+      "service": "Search",
+      "query": "famous joke"
+    }
+  },
+  {
+    "user": "How to reset my phone?",
+    "assistant": {
+      "service": "Search",
+      "query": "phone reset instructions"
+    }
+  },
+  {
+    "user": "What's the weather like in Paris today?",
+    "assistant": {
+      "service": "Search",
+      "query": "current Paris weather"
+    }
+  },
+  {
+    "user": "Who won the world series last year?",
+    "assistant": {
+      "service": "Search",
+      "query": "winner of world series last year"
+    }
+  },
+  {
+    "user": "How do vaccines work?",
+    "assistant": {
+      "service": "Search",
+      "query": "vaccine mechanism of action"
+    }
+  },
+  {
+    "user": "What's the capital of Canada?",
+    "assistant": {
+      "service": "Search",
+      "query": "capital of Canada"
+    }
+  },
+  {
+    "user": "Find a gluten-free pizza recipe.",
+    "assistant": {
+      "service": "Search",
+      "query": "gluten-free pizza recipe"
+    }
+  },
+  {
+    "user": "Best practices for online security?",
+    "assistant": {
+      "service": "Search",
+      "query": "online security best practices"
+    }
+  },
+  {
+    "user": "Who is the author of 'Pride and Prejudice'?",
+    "assistant": {
+      "service": "Search",
+      "query": "author of Pride and Prejudice"
+    }
+  },
+  {
+    "user": "When is the next solar eclipse?",
+    "assistant": {
+      "service": "Search",
+      "query": "next solar eclipse date"
+    }
+  },
+  {
+    "user": "What are the symptoms of a cold?",
+    "assistant": {
+      "service": "Search",
+      "query": "symptoms of a cold"
+    }
+  },
+  {
+    "user": "How to make homemade pasta?",
+    "assistant": {
+      "service": "Search",
+      "query": "homemade pasta recipe"
+    }
+  },
+  {
+    "user": "What's the speed of light?",
+    "assistant": {
+      "service": "Search",
+      "query": "speed of light"
+    }
+  },
+  {
+    "user": "How can I improve my memory?",
+    "assistant": {
+      "service": "Search",
+      "query": "memory improvement techniques"
+    }
+  },
+  {
+    "user": "What is the population of Tokyo?",
+    "assistant": {
+      "service": "Search",
+      "query": "population of Tokyo"
+    }
+  },
+  {
+    "user": "Tell me about the history of Ancient Rome.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of Ancient Rome"
+    }
+  },
+  {
+    "user": "How to grow tomatoes in a small garden?",
+    "assistant": {
+      "service": "Search",
+      "query": "growing tomatoes in small spaces"
+    }
+  },
+  {
+    "user": "What are the benefits of meditation?",
+    "assistant": {
+      "service": "Search",
+      "query": "meditation benefits"
+    }
+  },
+  {
+    "user": "Who painted the Mona Lisa?",
+    "assistant": {
+      "service": "Search",
+      "query": "painter of the Mona Lisa"
+    }
+  },
+  {
+    "user": "When was the Eiffel Tower built?",
+    "assistant": {
+      "service": "Search",
+      "query": "Eiffel Tower construction date"
+    }
+  },
+  {
+    "user": "How to train a puppy?",
+    "assistant": {
+      "service": "Search",
+      "query": "puppy training techniques"
+    }
+  },
+  {
+    "user": "What causes insomnia?",
+    "assistant": {
+      "service": "Search",
+      "query": "insomnia causes"
+    }
+  },
+  {
+    "user": "Best cities to visit in Italy?",
+    "assistant": {
+      "service": "Search",
+      "query": "top cities in Italy to visit"
+    }
+  },
+  {
+    "user": "Who discovered gravity?",
+    "assistant": {
+      "service": "Search",
+      "query": "discoverer of gravity"
+    }
+  },
+  {
+    "user": "What are the health benefits of green tea?",
+    "assistant": {
+      "service": "Search",
+      "query": "green tea health benefits"
+    }
+  },
+  {
+    "user": "How to prevent a hangover?",
+    "assistant": {
+      "service": "Search",
+      "query": "hangover prevention tips"
+    }
+  },
+  {
+    "user": "What are the endangered species in the Amazon rainforest?",
+    "assistant": {
+      "service": "Search",
+      "query": "endangered species in the Amazon rainforest"
+    }
+  },
+  {
+    "user": "Tell me about the history of the Great Wall of China.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of the Great Wall of China"
+    }
+  },
+  {
+    "user": "How to start a small business?",
+    "assistant": {
+      "service": "Search",
+      "query": "starting a small business guide"
+    }
+  },
+  {
+    "user": "What are the benefits of yoga?",
+    "assistant": {
+      "service": "Search",
+      "query": "yoga benefits"
+    }
+  },
+  {
+    "user": "Who composed the Ninth Symphony?",
+    "assistant": {
+      "service": "Search",
+      "query": "composer of the Ninth Symphony"
+    }
+  },
+  {
+    "user": "When did the Industrial Revolution start?",
+    "assistant": {
+      "service": "Search",
+      "query": "start date of the Industrial Revolution"
+    }
+  },
+  {
+    "user": "How to organize a closet effectively?",
+    "assistant": {
+      "service": "Search",
+      "query": "effective closet organization tips"
+    }
+  },
+  {
+    "user": "What are the different types of clouds?",
+    "assistant": {
+      "service": "Search",
+      "query": "types of clouds"
+    }
+  },
+  {
+    "user": "How to prevent a hangover?",
+    "assistant": {
+      "service": "Search",
+      "query": "hangover prevention tips"
+    }
+  },
+  {
+    "user": "What are the endangered species in the Amazon rainforest?",
+    "assistant": {
+      "service": "Search",
+      "query": "endangered species in the Amazon rainforest"
+    }
+  },
+  {
+    "user": "Tell me about the history of the Great Wall of China.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of the Great Wall of China"
+    }
+  },
+  {
+    "user": "How to start a small business?",
+    "assistant": {
+      "service": "Search",
+      "query": "starting a small business guide"
+    }
+  },
+  {
+    "user": "What are the benefits of yoga?",
+    "assistant": {
+      "service": "Search",
+      "query": "yoga benefits"
+    }
+  },
+  {
+    "user": "How can I bake a cookie?",
+    "assistant": {
+      "service": "Search",
+      "query": "how to bake a cookie"
+    }
+  },
+  {
+    "user": "What is the world's highest building?",
+    "assistant": {
+      "service": "Search",
+      "query": "world's highest building"
+    }
+  },
+  {
+    "user": "Tell me a joke.",
+    "assistant": {
+      "service": "Search",
+      "query": "famous joke"
+    }
+  },
+  {
+    "user": "How to reset my phone?",
+    "assistant": {
+      "service": "Search",
+      "query": "phone reset instructions"
+    }
+  },
+  {
+    "user": "What's the weather like in Paris today?",
+    "assistant": {
+      "service": "Search",
+      "query": "current Paris weather"
+    }
+  },
+  {
+    "user": "Who won the world series last year?",
+    "assistant": {
+      "service": "Search",
+      "query": "winner of world series last year"
+    }
+  },
+  {
+    "user": "How do vaccines work?",
+    "assistant": {
+      "service": "Search",
+      "query": "vaccine mechanism of action"
+    }
+  },
+  {
+    "user": "What's the capital of Canada?",
+    "assistant": {
+      "service": "Search",
+      "query": "capital of Canada"
+    }
+  },
+  {
+    "user": "Find a gluten-free pizza recipe.",
+    "assistant": {
+      "service": "Search",
+      "query": "gluten-free pizza recipe"
+    }
+  },
+  {
+    "user": "Best practices for online security?",
+    "assistant": {
+      "service": "Search",
+      "query": "online security best practices"
+    }
+  },
+  {
+    "user": "Who is the author of 'Pride and Prejudice'?",
+    "assistant": {
+      "service": "Search",
+      "query": "author of Pride and Prejudice"
+    }
+  },
+  {
+    "user": "When is the next solar eclipse?",
+    "assistant": {
+      "service": "Search",
+      "query": "next solar eclipse date"
+    }
+  },
+  {
+    "user": "What are the symptoms of a cold?",
+    "assistant": {
+      "service": "Search",
+      "query": "symptoms of a cold"
+    }
+  },
+  {
+    "user": "How to make homemade pasta?",
+    "assistant": {
+      "service": "Search",
+      "query": "homemade pasta recipe"
+    }
+  },
+  {
+    "user": "What's the speed of light?",
+    "assistant": {
+      "service": "Search",
+      "query": "speed of light"
+    }
+  },
+  {
+    "user": "How can I improve my memory?",
+    "assistant": {
+      "service": "Search",
+      "query": "memory improvement techniques"
+    }
+  },
+  {
+    "user": "What is the population of Tokyo?",
+    "assistant": {
+      "service": "Search",
+      "query": "population of Tokyo"
+    }
+  },
+  {
+    "user": "Tell me about the history of Ancient Rome.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of Ancient Rome"
+    }
+  },
+  {
+    "user": "How to grow tomatoes in a small garden?",
+    "assistant": {
+      "service": "Search",
+      "query": "growing tomatoes in small spaces"
+    }
+  },
+  {
+    "user": "What are the benefits of meditation?",
+    "assistant": {
+      "service": "Search",
+      "query": "meditation benefits"
+    }
+  },
+  {
+    "user": "Who painted the Mona Lisa?",
+    "assistant": {
+      "service": "Search",
+      "query": "painter of the Mona Lisa"
+    }
+  },
+  {
+    "user": "When was the Eiffel Tower built?",
+    "assistant": {
+      "service": "Search",
+      "query": "Eiffel Tower construction date"
+    }
+  },
+  {
+    "user": "How to train a puppy?",
+    "assistant": {
+      "service": "Search",
+      "query": "puppy training techniques"
+    }
+  },
+  {
+    "user": "What causes insomnia?",
+    "assistant": {
+      "service": "Search",
+      "query": "insomnia causes"
+    }
+  },
+  {
+    "user": "Best cities to visit in Italy?",
+    "assistant": {
+      "service": "Search",
+      "query": "top cities in Italy to visit"
+    }
+  },
+  {
+    "user": "Who discovered gravity?",
+    "assistant": {
+      "service": "Search",
+      "query": "discoverer of gravity"
+    }
+  },
+  {
+    "user": "What are the health benefits of green tea?",
+    "assistant": {
+      "service": "Search",
+      "query": "green tea health benefits"
+    }
+  },
+  {
+    "user": "How to prevent a hangover?",
+    "assistant": {
+      "service": "Search",
+      "query": "hangover prevention tips"
+    }
+  },
+  {
+    "user": "What are the endangered species in the Amazon rainforest?",
+    "assistant": {
+      "service": "Search",
+      "query": "endangered species in the Amazon rainforest"
+    }
+  },
+  {
+    "user": "Tell me about the history of the Great Wall of China.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of the Great Wall of China"
+    }
+  },
+  {
+    "user": "How to start a small business?",
+    "assistant": {
+      "service": "Search",
+      "query": "starting a small business guide"
+    }
+  },
+  {
+    "user": "What are the benefits of yoga?",
+    "assistant": {
+      "service": "Search",
+      "query": "yoga benefits"
+    }
+  },
+  {
+    "user": "Who composed the Ninth Symphony?",
+    "assistant": {
+      "service": "Search",
+      "query": "composer of the Ninth Symphony"
+    }
+  },
+  {
+    "user": "When did the Industrial Revolution start?",
+    "assistant": {
+      "service": "Search",
+      "query": "start date of the Industrial Revolution"
+    }
+  },
+  {
+    "user": "How to organize a closet effectively?",
+    "assistant": {
+      "service": "Search",
+      "query": "effective closet organization tips"
+    }
+  },
+  {
+    "user": "What are the different types of clouds?",
+    "assistant": {
+      "service": "Search",
+      "query": "types of clouds"
+    }
+  },
+  {
+    "user": "How can I bake a cookie?",
+    "assistant": {
+      "service": "Search",
+      "query": "how to bake a cookie"
+    }
+  },
+  {
+    "user": "What is the world's highest building?",
+    "assistant": {
+      "service": "Search",
+      "query": "world's highest building"
+    }
+  },
+  {
+    "user": "Tell me a joke.",
+    "assistant": {
+      "service": "Search",
+      "query": "famous joke"
+    }
+  },
+  {
+    "user": "How to reset my phone?",
+    "assistant": {
+      "service": "Search",
+      "query": "phone reset instructions"
+    }
+  },
+  {
+    "user": "What's the weather like in Paris today?",
+    "assistant": {
+      "service": "Search",
+      "query": "current Paris weather"
+    }
+  },
+  {
+    "user": "Who won the world series last year?",
+    "assistant": {
+      "service": "Search",
+      "query": "winner of world series last year"
+    }
+  },
+  {
+    "user": "How do vaccines work?",
+    "assistant": {
+      "service": "Search",
+      "query": "vaccine mechanism of action"
+    }
+  },
+  {
+    "user": "What's the capital of Canada?",
+    "assistant": {
+      "service": "Search",
+      "query": "capital of Canada"
+    }
+  },
+  {
+    "user": "Find a gluten-free pizza recipe.",
+    "assistant": {
+      "service": "Search",
+      "query": "gluten-free pizza recipe"
+    }
+  },
+  {
+    "user": "Best practices for online security?",
+    "assistant": {
+      "service": "Search",
+      "query": "online security best practices"
+    }
+  },
+  {
+    "user": "Who is the author of 'Pride and Prejudice'?",
+    "assistant": {
+      "service": "Search",
+      "query": "author of Pride and Prejudice"
+    }
+  },
+  {
+    "user": "When is the next solar eclipse?",
+    "assistant": {
+      "service": "Search",
+      "query": "next solar eclipse date"
+    }
+  },
+  {
+    "user": "What are the symptoms of a cold?",
+    "assistant": {
+      "service": "Search",
+      "query": "symptoms of a cold"
+    }
+  },
+  {
+    "user": "How to make homemade pasta?",
+    "assistant": {
+      "service": "Search",
+      "query": "homemade pasta recipe"
+    }
+  },
+  {
+    "user": "What's the speed of light?",
+    "assistant": {
+      "service": "Search",
+      "query": "speed of light"
+    }
+  },
+  {
+    "user": "How can I improve my memory?",
+    "assistant": {
+      "service": "Search",
+      "query": "memory improvement techniques"
+    }
+  },
+  {
+    "user": "What is the population of Tokyo?",
+    "assistant": {
+      "service": "Search",
+      "query": "population of Tokyo"
+    }
+  },
+  {
+    "user": "Tell me about the history of Ancient Rome.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of Ancient Rome"
+    }
+  },
+  {
+    "user": "How to grow tomatoes in a small garden?",
+    "assistant": {
+      "service": "Search",
+      "query": "growing tomatoes in small spaces"
+    }
+  },
+  {
+    "user": "What are the benefits of meditation?",
+    "assistant": {
+      "service": "Search",
+      "query": "meditation benefits"
+    }
+  },
+  {
+    "user": "Who painted the Mona Lisa?",
+    "assistant": {
+      "service": "Search",
+      "query": "painter of the Mona Lisa"
+    }
+  },
+  {
+    "user": "When was the Eiffel Tower built?",
+    "assistant": {
+      "service": "Search",
+      "query": "Eiffel Tower construction date"
+    }
+  },
+  {
+    "user": "How to train a puppy?",
+    "assistant": {
+      "service": "Search",
+      "query": "puppy training techniques"
+    }
+  },
+  {
+    "user": "What causes insomnia?",
+    "assistant": {
+      "service": "Search",
+      "query": "insomnia causes"
+    }
+  },
+  {
+    "user": "Best cities to visit in Italy?",
+    "assistant": {
+      "service": "Search",
+      "query": "top cities in Italy to visit"
+    }
+  },
+  {
+    "user": "Who discovered gravity?",
+    "assistant": {
+      "service": "Search",
+      "query": "discoverer of gravity"
+    }
+  },
+  {
+    "user": "What are the health benefits of green tea?",
+    "assistant": {
+      "service": "Search",
+      "query": "green tea health benefits"
+    }
+  },
+  {
+    "user": "How to prevent a hangover?",
+    "assistant": {
+      "service": "Search",
+      "query": "hangover prevention tips"
+    }
+  },
+  {
+    "user": "What are the endangered species in the Amazon rainforest?",
+    "assistant": {
+      "service": "Search",
+      "query": "endangered species in the Amazon rainforest"
+    }
+  },
+  {
+    "user": "Tell me about the history of the Great Wall of China.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of the Great Wall of China"
+    }
+  },
+  {
+    "user": "How to start a small business?",
+    "assistant": {
+      "service": "Search",
+      "query": "starting a small business guide"
+    }
+  },
+  {
+    "user": "What are the benefits of yoga?",
+    "assistant": {
+      "service": "Search",
+      "query": "yoga benefits"
+    }
+  },
+  {
+    "user": "Who composed the Ninth Symphony?",
+    "assistant": {
+      "service": "Search",
+      "query": "composer of the Ninth Symphony"
+    }
+  },
+  {
+    "user": "When did the Industrial Revolution start?",
+    "assistant": {
+      "service": "Search",
+      "query": "start date of the Industrial Revolution"
+    }
+  },
+  {
+    "user": "How to organize a closet effectively?",
+    "assistant": {
+      "service": "Search",
+      "query": "effective closet organization tips"
+    }
+  },
+  {
+    "user": "What are the different types of clouds?",
+    "assistant": {
+      "service": "Search",
+      "query": "types of clouds"
+    }
+  },
+  {
+    "user": "How to prevent a hangover?",
+    "assistant": {
+      "service": "Search",
+      "query": "hangover prevention tips"
+    }
+  },
+  {
+    "user": "What are the endangered species in the Amazon rainforest?",
+    "assistant": {
+      "service": "Search",
+      "query": "endangered species in the Amazon rainforest"
+    }
+  },
+  {
+    "user": "Tell me about the history of the Great Wall of China.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of the Great Wall of China"
+    }
+  },
+  {
+    "user": "How to start a small business?",
+    "assistant": {
+      "service": "Search",
+      "query": "starting a small business guide"
+    }
+  },
+  {
+    "user": "What are the benefits of yoga?",
+    "assistant": {
+      "service": "Search",
+      "query": "yoga benefits"
+    }
+  },
+  {
+    "user": "How can I bake a cookie?",
+    "assistant": {
+      "service": "Search",
+      "query": "how to bake a cookie"
+    }
+  },
+  {
+    "user": "What is the world's highest building?",
+    "assistant": {
+      "service": "Search",
+      "query": "world's highest building"
+    }
+  },
+  {
+    "user": "Tell me a joke.",
+    "assistant": {
+      "service": "Search",
+      "query": "famous joke"
+    }
+  },
+  {
+    "user": "How to reset my phone?",
+    "assistant": {
+      "service": "Search",
+      "query": "phone reset instructions"
+    }
+  },
+  {
+    "user": "What's the weather like in Paris today?",
+    "assistant": {
+      "service": "Search",
+      "query": "current Paris weather"
+    }
+  },
+  {
+    "user": "Who won the world series last year?",
+    "assistant": {
+      "service": "Search",
+      "query": "winner of world series last year"
+    }
+  },
+  {
+    "user": "How do vaccines work?",
+    "assistant": {
+      "service": "Search",
+      "query": "vaccine mechanism of action"
+    }
+  },
+  {
+    "user": "What's the capital of Canada?",
+    "assistant": {
+      "service": "Search",
+      "query": "capital of Canada"
+    }
+  },
+  {
+    "user": "Find a gluten-free pizza recipe.",
+    "assistant": {
+      "service": "Search",
+      "query": "gluten-free pizza recipe"
+    }
+  },
+  {
+    "user": "Best practices for online security?",
+    "assistant": {
+      "service": "Search",
+      "query": "online security best practices"
+    }
+  },
+  {
+    "user": "Who is the author of 'Pride and Prejudice'?",
+    "assistant": {
+      "service": "Search",
+      "query": "author of Pride and Prejudice"
+    }
+  },
+  {
+    "user": "When is the next solar eclipse?",
+    "assistant": {
+      "service": "Search",
+      "query": "next solar eclipse date"
+    }
+  },
+  {
+    "user": "What are the symptoms of a cold?",
+    "assistant": {
+      "service": "Search",
+      "query": "symptoms of a cold"
+    }
+  },
+  {
+    "user": "How to make homemade pasta?",
+    "assistant": {
+      "service": "Search",
+      "query": "homemade pasta recipe"
+    }
+  },
+  {
+    "user": "What's the speed of light?",
+    "assistant": {
+      "service": "Search",
+      "query": "speed of light"
+    }
+  },
+  {
+    "user": "How can I improve my memory?",
+    "assistant": {
+      "service": "Search",
+      "query": "memory improvement techniques"
+    }
+  },
+  {
+    "user": "What is the population of Tokyo?",
+    "assistant": {
+      "service": "Search",
+      "query": "population of Tokyo"
+    }
+  },
+  {
+    "user": "Tell me about the history of Ancient Rome.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of Ancient Rome"
+    }
+  },
+  {
+    "user": "How to grow tomatoes in a small garden?",
+    "assistant": {
+      "service": "Search",
+      "query": "growing tomatoes in small spaces"
+    }
+  },
+  {
+    "user": "What are the benefits of meditation?",
+    "assistant": {
+      "service": "Search",
+      "query": "meditation benefits"
+    }
+  },
+  {
+    "user": "Who painted the Mona Lisa?",
+    "assistant": {
+      "service": "Search",
+      "query": "painter of the Mona Lisa"
+    }
+  },
+  {
+    "user": "When was the Eiffel Tower built?",
+    "assistant": {
+      "service": "Search",
+      "query": "Eiffel Tower construction date"
+    }
+  },
+  {
+    "user": "How to train a puppy?",
+    "assistant": {
+      "service": "Search",
+      "query": "puppy training techniques"
+    }
+  },
+  {
+    "user": "What causes insomnia?",
+    "assistant": {
+      "service": "Search",
+      "query": "insomnia causes"
+    }
+  },
+  {
+    "user": "Best cities to visit in Italy?",
+    "assistant": {
+      "service": "Search",
+      "query": "top cities in Italy to visit"
+    }
+  },
+  {
+    "user": "Who discovered gravity?",
+    "assistant": {
+      "service": "Search",
+      "query": "discoverer of gravity"
+    }
+  },
+  {
+    "user": "What are the health benefits of green tea?",
+    "assistant": {
+      "service": "Search",
+      "query": "green tea health benefits"
+    }
+  },
+  {
+    "user": "How to prevent a hangover?",
+    "assistant": {
+      "service": "Search",
+      "query": "hangover prevention tips"
+    }
+  },
+  {
+    "user": "What are the endangered species in the Amazon rainforest?",
+    "assistant": {
+      "service": "Search",
+      "query": "endangered species in the Amazon rainforest"
+    }
+  },
+  {
+    "user": "Tell me about the history of the Great Wall of China.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of the Great Wall of China"
+    }
+  },
+  {
+    "user": "How to start a small business?",
+    "assistant": {
+      "service": "Search",
+      "query": "starting a small business guide"
+    }
+  },
+  {
+    "user": "What are the benefits of yoga?",
+    "assistant": {
+      "service": "Search",
+      "query": "yoga benefits"
+    }
+  },
+  {
+    "user": "Who composed the Ninth Symphony?",
+    "assistant": {
+      "service": "Search",
+      "query": "composer of the Ninth Symphony"
+    }
+  },
+  {
+    "user": "When did the Industrial Revolution start?",
+    "assistant": {
+      "service": "Search",
+      "query": "start date of the Industrial Revolution"
+    }
+  },
+  {
+    "user": "How to organize a closet effectively?",
+    "assistant": {
+      "service": "Search",
+      "query": "effective closet organization tips"
+    }
+  },
+  {
+    "user": "What are the different types of clouds?",
+    "assistant": {
+      "service": "Search",
+      "query": "types of clouds"
+    }
+  },
+  {
+    "user": "How can I bake a cookie?",
+    "assistant": {
+      "service": "Search",
+      "query": "how to bake a cookie"
+    }
+  },
+  {
+    "user": "What is the world's highest building?",
+    "assistant": {
+      "service": "Search",
+      "query": "world's highest building"
+    }
+  },
+  {
+    "user": "Tell me a joke.",
+    "assistant": {
+      "service": "Search",
+      "query": "famous joke"
+    }
+  },
+  {
+    "user": "How to reset my phone?",
+    "assistant": {
+      "service": "Search",
+      "query": "phone reset instructions"
+    }
+  },
+  {
+    "user": "What's the weather like in Paris today?",
+    "assistant": {
+      "service": "Search",
+      "query": "current Paris weather"
+    }
+  },
+  {
+    "user": "Who won the world series last year?",
+    "assistant": {
+      "service": "Search",
+      "query": "winner of world series last year"
+    }
+  },
+  {
+    "user": "How do vaccines work?",
+    "assistant": {
+      "service": "Search",
+      "query": "vaccine mechanism of action"
+    }
+  },
+  {
+    "user": "What's the capital of Canada?",
+    "assistant": {
+      "service": "Search",
+      "query": "capital of Canada"
+    }
+  },
+  {
+    "user": "Find a gluten-free pizza recipe.",
+    "assistant": {
+      "service": "Search",
+      "query": "gluten-free pizza recipe"
+    }
+  },
+  {
+    "user": "Best practices for online security?",
+    "assistant": {
+      "service": "Search",
+      "query": "online security best practices"
+    }
+  },
+  {
+    "user": "Who is the author of 'Pride and Prejudice'?",
+    "assistant": {
+      "service": "Search",
+      "query": "author of Pride and Prejudice"
+    }
+  },
+  {
+    "user": "When is the next solar eclipse?",
+    "assistant": {
+      "service": "Search",
+      "query": "next solar eclipse date"
+    }
+  },
+  {
+    "user": "What are the symptoms of a cold?",
+    "assistant": {
+      "service": "Search",
+      "query": "symptoms of a cold"
+    }
+  },
+  {
+    "user": "How to make homemade pasta?",
+    "assistant": {
+      "service": "Search",
+      "query": "homemade pasta recipe"
+    }
+  },
+  {
+    "user": "What's the speed of light?",
+    "assistant": {
+      "service": "Search",
+      "query": "speed of light"
+    }
+  },
+  {
+    "user": "How can I improve my memory?",
+    "assistant": {
+      "service": "Search",
+      "query": "memory improvement techniques"
+    }
+  },
+  {
+    "user": "What is the population of Tokyo?",
+    "assistant": {
+      "service": "Search",
+      "query": "population of Tokyo"
+    }
+  },
+  {
+    "user": "Tell me about the history of Ancient Rome.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of Ancient Rome"
+    }
+  },
+  {
+    "user": "How to grow tomatoes in a small garden?",
+    "assistant": {
+      "service": "Search",
+      "query": "growing tomatoes in small spaces"
+    }
+  },
+  {
+    "user": "What are the benefits of meditation?",
+    "assistant": {
+      "service": "Search",
+      "query": "meditation benefits"
+    }
+  },
+  {
+    "user": "Who painted the Mona Lisa?",
+    "assistant": {
+      "service": "Search",
+      "query": "painter of the Mona Lisa"
+    }
+  },
+  {
+    "user": "When was the Eiffel Tower built?",
+    "assistant": {
+      "service": "Search",
+      "query": "Eiffel Tower construction date"
+    }
+  },
+  {
+    "user": "How to train a puppy?",
+    "assistant": {
+      "service": "Search",
+      "query": "puppy training techniques"
+    }
+  },
+  {
+    "user": "What causes insomnia?",
+    "assistant": {
+      "service": "Search",
+      "query": "insomnia causes"
+    }
+  },
+  {
+    "user": "Best cities to visit in Italy?",
+    "assistant": {
+      "service": "Search",
+      "query": "top cities in Italy to visit"
+    }
+  },
+  {
+    "user": "Who discovered gravity?",
+    "assistant": {
+      "service": "Search",
+      "query": "discoverer of gravity"
+    }
+  },
+  {
+    "user": "What are the health benefits of green tea?",
+    "assistant": {
+      "service": "Search",
+      "query": "green tea health benefits"
+    }
+  },
+  {
+    "user": "How to prevent a hangover?",
+    "assistant": {
+      "service": "Search",
+      "query": "hangover prevention tips"
+    }
+  },
+  {
+    "user": "What are the endangered species in the Amazon rainforest?",
+    "assistant": {
+      "service": "Search",
+      "query": "endangered species in the Amazon rainforest"
+    }
+  },
+  {
+    "user": "Tell me about the history of the Great Wall of China.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of the Great Wall of China"
+    }
+  },
+  {
+    "user": "How to start a small business?",
+    "assistant": {
+      "service": "Search",
+      "query": "starting a small business guide"
+    }
+  },
+  {
+    "user": "What are the benefits of yoga?",
+    "assistant": {
+      "service": "Search",
+      "query": "yoga benefits"
+    }
+  },
+  {
+    "user": "Who composed the Ninth Symphony?",
+    "assistant": {
+      "service": "Search",
+      "query": "composer of the Ninth Symphony"
+    }
+  },
+  {
+    "user": "When did the Industrial Revolution start?",
+    "assistant": {
+      "service": "Search",
+      "query": "start date of the Industrial Revolution"
+    }
+  },
+  {
+    "user": "How to organize a closet effectively?",
+    "assistant": {
+      "service": "Search",
+      "query": "effective closet organization tips"
+    }
+  },
+  {
+    "user": "What are the different types of clouds?",
+    "assistant": {
+      "service": "Search",
+      "query": "types of clouds"
+    }
+  },
+  {
+    "user": "How can I bake a cookie?",
+    "assistant": {
+      "service": "Search",
+      "query": "how to bake a cookie"
+    }
+  },
+  {
+    "user": "What is the world's highest building?",
+    "assistant": {
+      "service": "Search",
+      "query": "world's highest building"
+    }
+  },
+  {
+    "user": "Tell me a joke.",
+    "assistant": {
+      "service": "Search",
+      "query": "famous joke"
+    }
+  },
+  {
+    "user": "How to reset my phone?",
+    "assistant": {
+      "service": "Search",
+      "query": "phone reset instructions"
+    }
+  },
+  {
+    "user": "What's the weather like in Paris today?",
+    "assistant": {
+      "service": "Search",
+      "query": "current Paris weather"
+    }
+  },
+  {
+    "user": "Who won the world series last year?",
+    "assistant": {
+      "service": "Search",
+      "query": "winner of world series last year"
+    }
+  },
+  {
+    "user": "How do vaccines work?",
+    "assistant": {
+      "service": "Search",
+      "query": "vaccine mechanism of action"
+    }
+  },
+  {
+    "user": "What's the capital of Canada?",
+    "assistant": {
+      "service": "Search",
+      "query": "capital of Canada"
+    }
+  },
+  {
+    "user": "Find a gluten-free pizza recipe.",
+    "assistant": {
+      "service": "Search",
+      "query": "gluten-free pizza recipe"
+    }
+  },
+  {
+    "user": "Best practices for online security?",
+    "assistant": {
+      "service": "Search",
+      "query": "online security best practices"
+    }
+  },
+  {
+    "user": "Who is the author of 'Pride and Prejudice'?",
+    "assistant": {
+      "service": "Search",
+      "query": "author of Pride and Prejudice"
+    }
+  },
+  {
+    "user": "When is the next solar eclipse?",
+    "assistant": {
+      "service": "Search",
+      "query": "next solar eclipse date"
+    }
+  },
+  {
+    "user": "What are the symptoms of a cold?",
+    "assistant": {
+      "service": "Search",
+      "query": "symptoms of a cold"
+    }
+  },
+  {
+    "user": "How to make homemade pasta?",
+    "assistant": {
+      "service": "Search",
+      "query": "homemade pasta recipe"
+    }
+  },
+  {
+    "user": "What's the speed of light?",
+    "assistant": {
+      "service": "Search",
+      "query": "speed of light"
+    }
+  },
+  {
+    "user": "How can I improve my memory?",
+    "assistant": {
+      "service": "Search",
+      "query": "memory improvement techniques"
+    }
+  },
+  {
+    "user": "What is the population of Tokyo?",
+    "assistant": {
+      "service": "Search",
+      "query": "population of Tokyo"
+    }
+  },
+  {
+    "user": "Tell me about the history of Ancient Rome.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of Ancient Rome"
+    }
+  },
+  {
+    "user": "How to grow tomatoes in a small garden?",
+    "assistant": {
+      "service": "Search",
+      "query": "growing tomatoes in small spaces"
+    }
+  },
+  {
+    "user": "What are the benefits of meditation?",
+    "assistant": {
+      "service": "Search",
+      "query": "meditation benefits"
+    }
+  },
+  {
+    "user": "Who painted the Mona Lisa?",
+    "assistant": {
+      "service": "Search",
+      "query": "painter of the Mona Lisa"
+    }
+  },
+  {
+    "user": "When was the Eiffel Tower built?",
+    "assistant": {
+      "service": "Search",
+      "query": "Eiffel Tower construction date"
+    }
+  },
+  {
+    "user": "How to train a puppy?",
+    "assistant": {
+      "service": "Search",
+      "query": "puppy training techniques"
+    }
+  },
+  {
+    "user": "What causes insomnia?",
+    "assistant": {
+      "service": "Search",
+      "query": "insomnia causes"
+    }
+  },
+  {
+    "user": "Best cities to visit in Italy?",
+    "assistant": {
+      "service": "Search",
+      "query": "top cities in Italy to visit"
+    }
+  },
+  {
+    "user": "Who discovered gravity?",
+    "assistant": {
+      "service": "Search",
+      "query": "discoverer of gravity"
+    }
+  },
+  {
+    "user": "What are the health benefits of green tea?",
+    "assistant": {
+      "service": "Search",
+      "query": "green tea health benefits"
+    }
+  },
+  {
+    "user": "How to prevent a hangover?",
+    "assistant": {
+      "service": "Search",
+      "query": "hangover prevention tips"
+    }
+  },
+  {
+    "user": "What are the endangered species in the Amazon rainforest?",
+    "assistant": {
+      "service": "Search",
+      "query": "endangered species in the Amazon rainforest"
+    }
+  },
+  {
+    "user": "Tell me about the history of the Great Wall of China.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of the Great Wall of China"
+    }
+  },
+  {
+    "user": "How to start a small business?",
+    "assistant": {
+      "service": "Search",
+      "query": "starting a small business guide"
+    }
+  },
+  {
+    "user": "What are the benefits of yoga?",
+    "assistant": {
+      "service": "Search",
+      "query": "yoga benefits"
+    }
+  },
+  {
+    "user": "Who composed the Ninth Symphony?",
+    "assistant": {
+      "service": "Search",
+      "query": "composer of the Ninth Symphony"
+    }
+  },
+  {
+    "user": "When did the Industrial Revolution start?",
+    "assistant": {
+      "service": "Search",
+      "query": "start date of the Industrial Revolution"
+    }
+  },
+  {
+    "user": "How to organize a closet effectively?",
+    "assistant": {
+      "service": "Search",
+      "query": "effective closet organization tips"
+    }
+  },
+  {
+    "user": "What are the different types of clouds?",
+    "assistant": {
+      "service": "Search",
+      "query": "types of clouds"
+    }
+  },
+  {
+    "user": "How to fix a leaking faucet?",
+    "assistant": {
+      "service": "Search",
+      "query": "how to repair a leaking faucet"
+    }
+  },
+  {
+    "user": "What are the top tourist attractions in New York City?",
+    "assistant": {
+      "service": "Search",
+      "query": "popular New York City tourist attractions"
+    }
+  },
+  {
+    "user": "Tell me a fun fact about the human body.",
+    "assistant": {
+      "service": "Search",
+      "query": "interesting human body fact"
+    }
+  },
+  {
+    "user": "How to improve flexibility for better gymnastics performance?",
+    "assistant": {
+      "service": "Search",
+      "query": "flexibility exercises for gymnastics"
+    }
+  },
+  {
+    "user": "What are the different types of pasta shapes?",
+    "assistant": {
+      "service": "Search",
+      "query": "types of pasta shapes"
+    }
+  },
+  {
+    "user": "Who invented the internet?",
+    "assistant": {
+      "service": "Search",
+      "query": "inventor of the internet"
+    }
+  },
+  {
+    "user": "How can I bake a cookie?",
+    "assistant": {
+      "service": "Search",
+      "query": "how to bake a cookie"
+    }
+  },
+  {
+    "user": "What is the world's highest building?",
+    "assistant": {
+      "service": "Search",
+      "query": "world's highest building"
+    }
+  },
+  {
+    "user": "Tell me a joke.",
+    "assistant": {
+      "service": "Search",
+      "query": "famous joke"
+    }
+  },
+  {
+    "user": "How to reset my phone?",
+    "assistant": {
+      "service": "Search",
+      "query": "phone reset instructions"
+    }
+  },
+  {
+    "user": "What's the weather like in Paris today?",
+    "assistant": {
+      "service": "Search",
+      "query": "current Paris weather"
+    }
+  },
+  {
+    "user": "Who won the world series last year?",
+    "assistant": {
+      "service": "Search",
+      "query": "winner of world series last year"
+    }
+  },
+  {
+    "user": "How do vaccines work?",
+    "assistant": {
+      "service": "Search",
+      "query": "vaccine mechanism of action"
+    }
+  },
+  {
+    "user": "What's the capital of Canada?",
+    "assistant": {
+      "service": "Search",
+      "query": "capital of Canada"
+    }
+  },
+  {
+    "user": "Find a gluten-free pizza recipe.",
+    "assistant": {
+      "service": "Search",
+      "query": "gluten-free pizza recipe"
+    }
+  },
+  {
+    "user": "Best practices for online security?",
+    "assistant": {
+      "service": "Search",
+      "query": "online security best practices"
+    }
+  },
+  {
+    "user": "Who is the author of 'Pride and Prejudice'?",
+    "assistant": {
+      "service": "Search",
+      "query": "author of Pride and Prejudice"
+    }
+  },
+  {
+    "user": "When is the next solar eclipse?",
+    "assistant": {
+      "service": "Search",
+      "query": "next solar eclipse date"
+    }
+  },
+  {
+    "user": "What are the symptoms of a cold?",
+    "assistant": {
+      "service": "Search",
+      "query": "symptoms of a cold"
+    }
+  },
+  {
+    "user": "How to make homemade pasta?",
+    "assistant": {
+      "service": "Search",
+      "query": "homemade pasta recipe"
+    }
+  },
+  {
+    "user": "What's the speed of light?",
+    "assistant": {
+      "service": "Search",
+      "query": "speed of light"
+    }
+  },
+  {
+    "user": "How can I improve my memory?",
+    "assistant": {
+      "service": "Search",
+      "query": "memory improvement techniques"
+    }
+  },
+  {
+    "user": "What is the population of Tokyo?",
+    "assistant": {
+      "service": "Search",
+      "query": "population of Tokyo"
+    }
+  },
+  {
+    "user": "Tell me about the history of Ancient Rome.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of Ancient Rome"
+    }
+  },
+  {
+    "user": "How to grow tomatoes in a small garden?",
+    "assistant": {
+      "service": "Search",
+      "query": "growing tomatoes in small spaces"
+    }
+  },
+  {
+    "user": "What are the benefits of meditation?",
+    "assistant": {
+      "service": "Search",
+      "query": "meditation benefits"
+    }
+  },
+  {
+    "user": "Who painted the Mona Lisa?",
+    "assistant": {
+      "service": "Search",
+      "query": "painter of the Mona Lisa"
+    }
+  },
+  {
+    "user": "When was the Eiffel Tower built?",
+    "assistant": {
+      "service": "Search",
+      "query": "Eiffel Tower construction date"
+    }
+  },
+  {
+    "user": "How to train a puppy?",
+    "assistant": {
+      "service": "Search",
+      "query": "puppy training techniques"
+    }
+  },
+  {
+    "user": "What causes insomnia?",
+    "assistant": {
+      "service": "Search",
+      "query": "insomnia causes"
+    }
+  },
+  {
+    "user": "Best cities to visit in Italy?",
+    "assistant": {
+      "service": "Search",
+      "query": "top cities in Italy to visit"
+    }
+  },
+  {
+    "user": "Who discovered gravity?",
+    "assistant": {
+      "service": "Search",
+      "query": "discoverer of gravity"
+    }
+  },
+  {
+    "user": "What are the health benefits of green tea?",
+    "assistant": {
+      "service": "Search",
+      "query": "green tea health benefits"
+    }
+  },
+  {
+    "user": "How to prevent a hangover?",
+    "assistant": {
+      "service": "Search",
+      "query": "hangover prevention tips"
+    }
+  },
+  {
+    "user": "What are the endangered species in the Amazon rainforest?",
+    "assistant": {
+      "service": "Search",
+      "query": "endangered species in the Amazon rainforest"
+    }
+  },
+  {
+    "user": "Tell me about the history of the Great Wall of China.",
+    "assistant": {
+      "service": "Search",
+      "query": "history of the Great Wall of China"
+    }
+  },
+  {
+    "user": "How to start a small business?",
+    "assistant": {
+      "service": "Search",
+      "query": "starting a small business guide"
+    }
+  },
+  {
+    "user": "What are the benefits of yoga?",
+    "assistant": {
+      "service": "Search",
+      "query": "yoga benefits"
+    }
+  },
+  {
+    "user": "Who composed the Ninth Symphony?",
+    "assistant": {
+      "service": "Search",
+      "query": "composer of the Ninth Symphony"
+    }
+  },
+  {
+    "user": "When did the Industrial Revolution start?",
+    "assistant": {
+      "service": "Search",
+      "query": "start date of the Industrial Revolution"
+    }
+  },
+  {
+    "user": "How to organize a closet effectively?",
+    "assistant": {
+      "service": "Search",
+      "query": "effective closet organization tips"
+    }
+  },
+  {
+    "user": "What are the different types of clouds?",
+    "assistant": {
+      "service": "Search",
+      "query": "types of clouds"
+    }
+  },
+  {
+    "user": "How to fix a leaking faucet?",
+    "assistant": {
+      "service": "Search",
+      "query": "how to repair a leaking faucet"
+    }
+  },
+  {
+    "user": "What are the top tourist attractions in New York City?",
+    "assistant": {
+      "service": "Search",
+      "query": "popular New York City tourist attractions"
+    }
+  },
+  {
+    "user": "Tell me a fun fact about the human body.",
+    "assistant": {
+      "service": "Search",
+      "query": "interesting human body fact"
+    }
+  },
+  {
+    "user": "How to improve flexibility for better gymnastics performance?",
+    "assistant": {
+      "service": "Search",
+      "query": "flexibility exercises for gymnastics"
+    }
+  },
+  {
+    "user": "What are the different types of pasta shapes?",
+    "assistant": {
+      "service": "Search",
+      "query": "types of pasta shapes"
+    }
+  },
+  {
+    "user": "Who invented the internet?",
+    "assistant": {
+      "service": "Search",
+      "query": "inventor of the internet"
+    }
+  }
+]
